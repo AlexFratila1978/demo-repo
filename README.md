@@ -4,4 +4,4 @@ Demo project!
 
 ## Subheader
 
-Munceste ca intelcdi putin cate putin
+Munceste putin cate putin
